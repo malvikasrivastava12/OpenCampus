@@ -1,0 +1,35 @@
+/* .DAONavbar {
+  display: flex;
+  gap: 10px;
+}
+.Logo {
+  size: 10px;
+} */
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #ffffff;
+  border-bottom: 1px solid #e0e0e0;
+}
+.nav_links {
+  display: flex;
+  gap: 20px;
+  font-size: smaller;
+  color: #0148bc;
+}
+.nav_links a.active {
+  text-decoration: underline;
+  font-weight: bold;
+}
+/* .nav_links a:hover {
+  color: #0056b3;
+} */
+.logo_container {
+  padding-right: 20%;
+}
+.logo_icon {
+  width: 130%;
+  height: 25px;
+}

@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+  place-items: center;
+}
+.Titleheading {
+  color: #0148bc;
+
+  font-size: 25px;
+  font-weight: bolder;
+}
+.centent-container {
+  display: flex;
+  gap: 20px;
+}
+.Heading-title-container {
+  color: #0148bc;
+}
+h4,
+h5 {
+  font-weight: 500;
+}
+.proposal-structure {
+  border-left: 3px solid #0148bc; /* Vertical line */
+  padding-left: 10px;
+}

@@ -1,0 +1,8 @@
+.footer_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25%;
+  background-color: #0148bc;
+  height: 40%;
+}
